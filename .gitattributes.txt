@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Explicitly declare text files you want to always be normalized and converted
+*.html text
+*.css text
+*.js text
+*.py text
+*.md text
+
+# Declare files that will always have specific line endings
+*.bat text eol=crlf
+*.cmd text eol=crlf

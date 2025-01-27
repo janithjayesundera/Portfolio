@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Backup files
+*.backup
+
+# Compiled files
+*.class
+*.dll
+*.exe
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local development settings
+.local/
